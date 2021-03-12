@@ -6,4 +6,4 @@ I'm using it to basically improve my translation ability, but seriously it's pre
 
 ## Credits
 
- - Website: [Motherfucking Website](https://www.motherfuckingwebsite.com/)
+Website: [Motherfucking Website](https://www.motherfuckingwebsite.com/)
